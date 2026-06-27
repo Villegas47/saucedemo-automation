@@ -4,6 +4,8 @@ An automated UI test suite for [saucedemo.com](https://www.saucedemo.com), built
 **Playwright** and **Python (pytest)**. The project converts manual test cases into
 repeatable automated checks covering the core e-commerce flows of the application.
 
+![Test results](test-results.png)
+
 ## Coverage
 
 The suite exercises the main user journeys through the SauceDemo storefront:
